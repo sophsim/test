@@ -8,3 +8,4 @@ def findlist():
   return l
 
   list = ['hello', 'hi']
+  print(list)
