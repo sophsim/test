@@ -6,3 +6,5 @@ def findlist():
   for d in data:
     data.append(l)
   return l
+
+  list = ['hello', 'hi']
